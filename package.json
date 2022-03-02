@@ -1,0 +1,25 @@
+{
+  "name": "xtreme-components",
+  "version": "1.0.0",
+  "description": "The repo for holding xtreme-ui components to be used....everywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xtreme-ui/xtreme-components.git"
+  },
+  "author": "xtreme-ui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xtreme-ui/xtreme-components/issues"
+  },
+  "homepage": "https://github.com/xtreme-ui/xtreme-components#readme",
+  "peerDependencies": {
+    "react": ">=16.9.0",
+    "react-dom": ">=16.9.0",
+    "styles-components": ">=4.0.0",
+    "@storybook/react": ">=5.2.0"
+  }
+}
